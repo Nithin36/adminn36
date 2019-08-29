@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/api/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/api/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/api/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/api/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/api/vendor/composer" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/api/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/api/vendor/d11wtq/boris" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/api/vendor/patchwork/utf8" />
+      <path value="$PROJECT_DIR$/api/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/api/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/api/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/api/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/api/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/api/vendor/stack/builder" />
+    </include_path>
+  </component>
+</project>
